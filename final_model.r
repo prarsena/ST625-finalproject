@@ -8,8 +8,8 @@ options(scipen=999)
                    data$`BG2) Population / Millions`)*1000
 
 interaction.variable =
-  data.with.gdp$`2.1.1) Smartphone cost (handset) / Score of 0-100, 100=most affordable` * 
-  data.with.gdp$`2.2.1) Average revenue per user (ARPU, annualized) / USD` 
+  data$`2.1.1) Smartphone cost (handset) / Score of 0-100, 100=most affordable` * 
+  data$`2.2.1) Average revenue per user (ARPU, annualized) / USD` 
 
 data.with.gdp = cbind(data,`Per Capita GDP`,interaction.variable)
 
