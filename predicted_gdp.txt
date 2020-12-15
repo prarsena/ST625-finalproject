@@ -1,0 +1,400 @@
+Algeria 
+Actual Per Capita GDP:  4123.515 
+Predicted Per Capita GDP:  7094.215 
+
+Argentina 
+Actual Per Capita GDP:  11704.95 
+Predicted Per Capita GDP:  12826.86 
+
+Australia 
+Actual Per Capita GDP:  57012.05 
+Predicted Per Capita GDP:  58525.09 
+
+Austria 
+Actual Per Capita GDP:  53058.14 
+Predicted Per Capita GDP:  38883.21 
+
+Azerbaijan 
+Actual Per Capita GDP:  4690 
+Predicted Per Capita GDP:  8916.207 
+
+Bahrain 
+Actual Per Capita GDP:  25133.33 
+Predicted Per Capita GDP:  9164.085 
+
+Bangladesh 
+Actual Per Capita GDP:  1697.646 
+Predicted Per Capita GDP:  -3192.825 
+
+Belgium 
+Actual Per Capita GDP:  46286.96 
+Predicted Per Capita GDP:  44505.06 
+
+Botswana 
+Actual Per Capita GDP:  8086.957 
+Predicted Per Capita GDP:  13854.68 
+
+Brazil 
+Actual Per Capita GDP:  8930.688 
+Predicted Per Capita GDP:  7681.758 
+
+Bulgaria 
+Actual Per Capita GDP:  9300 
+Predicted Per Capita GDP:  12741.03 
+
+Burkina Faso 
+Actual Per Capita GDP:  727.2727 
+Predicted Per Capita GDP:  953.2532 
+
+Burundi 
+Actual Per Capita GDP:  284.4037 
+Predicted Per Capita GDP:  -3618.55 
+
+Cambodia 
+Actual Per Capita GDP:  1518.519 
+Predicted Per Capita GDP:  -1856.624 
+
+Cameroon 
+Actual Per Capita GDP:  1527.778 
+Predicted Per Capita GDP:  672.9173 
+
+Canada 
+Actual Per Capita GDP:  46150.94 
+Predicted Per Capita GDP:  53606.83 
+
+Chile 
+Actual Per Capita GDP:  15946.52 
+Predicted Per Capita GDP:  26775.63 
+
+China 
+Actual Per Capita GDP:  9651.986 
+Predicted Per Capita GDP:  16654.51 
+
+Colombia 
+Actual Per Capita GDP:  6659.96 
+Predicted Per Capita GDP:  6443.256 
+
+Croatia 
+Actual Per Capita GDP:  14476.19 
+Predicted Per Capita GDP:  17669.31 
+
+Cuba 
+Actual Per Capita GDP:  8849.558 
+Predicted Per Capita GDP:  6857.137 
+
+Denmark 
+Actual Per Capita GDP:  60706.9 
+Predicted Per Capita GDP:  47382.54 
+
+Egypt 
+Actual Per Capita GDP:  2565.396 
+Predicted Per Capita GDP:  5747.754 
+
+El Salvador 
+Actual Per Capita GDP:  4062.5 
+Predicted Per Capita GDP:  4914.835 
+
+Estonia 
+Actual Per Capita GDP:  23692.31 
+Predicted Per Capita GDP:  31761.61 
+
+Ethiopia 
+Actual Per Capita GDP:  735.348 
+Predicted Per Capita GDP:  617.379 
+
+France 
+Actual Per Capita GDP:  42796.92 
+Predicted Per Capita GDP:  48352.68 
+
+Gabon 
+Actual Per Capita GDP:  8095.238 
+Predicted Per Capita GDP:  4574.693 
+
+Germany 
+Actual Per Capita GDP:  47786.23 
+Predicted Per Capita GDP:  37915.3 
+
+Ghana 
+Actual Per Capita GDP:  2223.729 
+Predicted Per Capita GDP:  5157.791 
+
+Greece 
+Actual Per Capita GDP:  20704.76 
+Predicted Per Capita GDP:  20073.8 
+
+Guatemala 
+Actual Per Capita GDP:  4537.572 
+Predicted Per Capita GDP:  -567.4386 
+
+Honduras 
+Actual Per Capita GDP:  2644.444 
+Predicted Per Capita GDP:  -323.0981 
+
+Hong Kong 
+Actual Per Capita GDP:  49013.51 
+Predicted Per Capita GDP:  38751.74 
+
+Hungary 
+Actual Per Capita GDP:  16247.42 
+Predicted Per Capita GDP:  22162.88 
+
+India 
+Actual Per Capita GDP:  2009.685 
+Predicted Per Capita GDP:  619.4688 
+
+Indonesia 
+Actual Per Capita GDP:  3963.865 
+Predicted Per Capita GDP:  3595.917 
+
+Iran 
+Actual Per Capita GDP:  5155.257 
+Predicted Per Capita GDP:  8454.827 
+
+Ireland 
+Actual Per Capita GDP:  79750 
+Predicted Per Capita GDP:  51886.43 
+
+Italy 
+Actual Per Capita GDP:  34412.54 
+Predicted Per Capita GDP:  26710.05 
+
+Ivory Coast 
+Actual Per Capita GDP:  1726.908 
+Predicted Per Capita GDP:  4339.7 
+
+Jamaica 
+Actual Per Capita GDP:  5103.448 
+Predicted Per Capita GDP:  10182.48 
+
+Japan 
+Actual Per Capita GDP:  39077.04 
+Predicted Per Capita GDP:  43784.07 
+
+Kazakhstan 
+Actual Per Capita GDP:  9218.579 
+Predicted Per Capita GDP:  11927.02 
+
+Kenya 
+Actual Per Capita GDP:  1710.117 
+Predicted Per Capita GDP:  1195.635 
+
+Kuwait 
+Actual Per Capita GDP:  30127.66 
+Predicted Per Capita GDP:  29799.58 
+
+Laos 
+Actual Per Capita GDP:  2535.211 
+Predicted Per Capita GDP:  4271.699 
+
+Latvia 
+Actual Per Capita GDP:  18368.42 
+Predicted Per Capita GDP:  23037.23 
+
+Lebanon 
+Actual Per Capita GDP:  9129.032 
+Predicted Per Capita GDP:  8898.993 
+
+Liberia 
+Actual Per Capita GDP:  687.5 
+Predicted Per Capita GDP:  -860.114 
+
+Lithuania 
+Actual Per Capita GDP:  19035.71 
+Predicted Per Capita GDP:  23540.25 
+
+Madagascar 
+Actual Per Capita GDP:  459.4595 
+Predicted Per Capita GDP:  -4795.612 
+
+Malawi 
+Actual Per Capita GDP:  371.7277 
+Predicted Per Capita GDP:  -2057.973 
+
+Malaysia 
+Actual Per Capita GDP:  11384.13 
+Predicted Per Capita GDP:  13507.9 
+
+Mexico 
+Actual Per Capita GDP:  9686.212 
+Predicted Per Capita GDP:  5947.174 
+
+Mongolia 
+Actual Per Capita GDP:  4193.548 
+Predicted Per Capita GDP:  10142.42 
+
+Morocco 
+Actual Per Capita GDP:  3275 
+Predicted Per Capita GDP:  8993.352 
+
+Mozambique 
+Actual Per Capita GDP:  491.5254 
+Predicted Per Capita GDP:  -3908.519 
+
+Myanmar 
+Actual Per Capita GDP:  1270.019 
+Predicted Per Capita GDP:  2432.112 
+
+Namibia 
+Actual Per Capita GDP:  5576.923 
+Predicted Per Capita GDP:  13188.55 
+
+Netherlands 
+Actual Per Capita GDP:  53186.05 
+Predicted Per Capita GDP:  42058.15 
+
+New Zealand 
+Actual Per Capita GDP:  41530.61 
+Predicted Per Capita GDP:  65630.53 
+
+Nicaragua 
+Actual Per Capita GDP:  2015.385 
+Predicted Per Capita GDP:  -5.516402 
+
+Nigeria 
+Actual Per Capita GDP:  2153.139 
+Predicted Per Capita GDP:  -241.7102 
+
+Oman 
+Actual Per Capita GDP:  17239.13 
+Predicted Per Capita GDP:  20999.83 
+
+Pakistan 
+Actual Per Capita GDP:  1482.564 
+Predicted Per Capita GDP:  -414.8308 
+
+Papua New Guinea 
+Actual Per Capita GDP:  2279.07 
+Predicted Per Capita GDP:  2005.16 
+
+Paraguay 
+Actual Per Capita GDP:  5884.058 
+Predicted Per Capita GDP:  4467.963 
+
+Peru 
+Actual Per Capita GDP:  7000 
+Predicted Per Capita GDP:  4602.765 
+
+Philippines 
+Actual Per Capita GDP:  3097.47 
+Predicted Per Capita GDP:  6196.455 
+
+Poland 
+Actual Per Capita GDP:  15332.46 
+Predicted Per Capita GDP:  23447.26 
+
+Portugal 
+Actual Per Capita GDP:  23388.35 
+Predicted Per Capita GDP:  31567.18 
+
+Qatar 
+Actual Per Capita GDP:  68357.14 
+Predicted Per Capita GDP:  60575.25 
+
+Romania 
+Actual Per Capita GDP:  12287.18 
+Predicted Per Capita GDP:  19964.83 
+
+Russia 
+Actual Per Capita GDP:  11116.94 
+Predicted Per Capita GDP:  12475.02 
+
+Rwanda 
+Actual Per Capita GDP:  772.3577 
+Predicted Per Capita GDP:  11083.75 
+
+Saudi Arabia 
+Actual Per Capita GDP:  23547.9 
+Predicted Per Capita GDP:  25353.82 
+
+Senegal 
+Actual Per Capita GDP:  1478.528 
+Predicted Per Capita GDP:  5851.267 
+
+Singapore 
+Actual Per Capita GDP:  65035.71 
+Predicted Per Capita GDP:  43093.37 
+
+Slovakia 
+Actual Per Capita GDP:  19381.82 
+Predicted Per Capita GDP:  21010.55 
+
+South Africa 
+Actual Per Capita GDP:  6370.242 
+Predicted Per Capita GDP:  6914.511 
+
+South Korea 
+Actual Per Capita GDP:  33615.23 
+Predicted Per Capita GDP:  33754.04 
+
+Spain 
+Actual Per Capita GDP:  30415.42 
+Predicted Per Capita GDP:  30081.12 
+
+Sri Lanka 
+Actual Per Capita GDP:  4193.396 
+Predicted Per Capita GDP:  3935.665 
+
+Sudan 
+Actual Per Capita GDP:  748.184 
+Predicted Per Capita GDP:  -5920.179 
+
+Sweden 
+Actual Per Capita GDP:  55630 
+Predicted Per Capita GDP:  47119 
+
+Taiwan 
+Actual Per Capita GDP:  24995.76 
+Predicted Per Capita GDP:  29819.68 
+
+Tanzania 
+Actual Per Capita GDP:  1040.853 
+Predicted Per Capita GDP:  576.6232 
+
+Thailand 
+Actual Per Capita GDP:  7279.539 
+Predicted Per Capita GDP:  9806.112 
+
+Trinidad & Tobago 
+Actual Per Capita GDP:  16285.71 
+Predicted Per Capita GDP:  14921.17 
+
+Turkey 
+Actual Per Capita GDP:  9346.294 
+Predicted Per Capita GDP:  14034.98 
+
+UAE 
+Actual Per Capita GDP:  43589.47 
+Predicted Per Capita GDP:  48503.76 
+
+Uganda 
+Actual Per Capita GDP:  695.5504 
+Predicted Per Capita GDP:  -1762.796 
+
+United Kingdom 
+Actual Per Capita GDP:  42605.07 
+Predicted Per Capita GDP:  48281.39 
+
+United States 
+Actual Per Capita GDP:  62516.1 
+Predicted Per Capita GDP:  64184.65 
+
+Uzbekistan 
+Actual Per Capita GDP:  1600 
+Predicted Per Capita GDP:  2799.616 
+
+Venezuela 
+Actual Per Capita GDP:  7487.342 
+Predicted Per Capita GDP:  1196.941 
+
+Vietnam 
+Actual Per Capita GDP:  2518.828 
+Predicted Per Capita GDP:  10173.99 
+
+Zambia 
+Actual Per Capita GDP:  1517.045 
+Predicted Per Capita GDP:  1565 
+
+Zimbabwe 
+Actual Per Capita GDP:  2152.778 
+Predicted Per Capita GDP:  -4730.746 
+
